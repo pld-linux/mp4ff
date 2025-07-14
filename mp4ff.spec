@@ -54,7 +54,7 @@ Statyczna biblioteka mp4ff.
 
 %prep
 %setup -q -n faad2-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__libtoolize}
