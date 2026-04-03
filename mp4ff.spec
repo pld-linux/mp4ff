@@ -6,7 +6,7 @@ Summary:	MP4 file format library from FAAD2 project
 Summary(pl.UTF-8):	Biblioteka formatu plików MP4 z projektu FAAD2
 Name:		mp4ff
 Version:	2.8.8
-Release:	1
+Release:	2
 License:	GPL v2+ or commercial
 Group:		Applications/Sound
 Source0:	http://downloads.sourceforge.net/faac/faad2-%{version}.tar.gz
